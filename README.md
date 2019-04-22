@@ -9,4 +9,4 @@ Arduino robot that navigates around objects (using ultrasonic sensors and motors
 
 ![Picture of the Robot on my insta &#40;@TheSmkLab](https://lh3.googleusercontent.com/s-GbKhQjARE5L8iRD77DxqHvSHCdhCbXZla1iG0xar00WFVFbrRiejOXG7cW4H8pVWorC1mWQegzOg "Picture of the Robot on my insta &#40;@TheSmkLab&#40;")
 
-***If you have any issues with this, then please contact me through my email or on my instagram page @TheSmkLab!*** 
+***If you have any issues with this, then please contact me through my email*** 
